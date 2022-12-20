@@ -1,5 +1,6 @@
 ![Verdon Parc Logo](https://github.com/Miraii133/itelective3-web/blob/main/verdon_parc_logo.png "Verdon Parc")
 # Verdon Parc by DMCI Homes
+<img src="https://github.com/Miraii133/itelective3-web/blob/main/verdon_parc_site.png" width="50%" height="50%">
 
 ## Table of Contents
 * [Type of System Used](#type-of-system-used)
@@ -29,7 +30,6 @@ The Verdon Parc website allows the users to view the Verdon Parc Condominium, it
 The website has multiple pages that a user can explore, with different purposes and functionalities. Meanwhile, it also contains links and embeds that redirects the # user to different websites that are still under DMCI Homes. It also allows the users to contact DMCI Homes for inquiries through a chat form or an inquiry form that will be sent to DMCI in the form of an email.
 
 ## Possible Sub-Systems
-
 User
 View Media of Verdon Parc
 View Map of Condominium
