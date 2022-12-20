@@ -36,10 +36,10 @@ The website has multiple pages that a user can explore, with different purposes 
 * View Media of Verdon Parc
 * View Map of Condominium
 * View General Information of Condominium
-* Chat with a bot or a Sales Representative
+* Inquire with a bot or a Sales Representative through Chat box
 * Submit an Inquiry form 
 
-### Admin
+### System Admin
 * View User Submitted Inquiry Forms
 * View Chat Inquiries
 * View User Bookings and Appointments
