@@ -9,6 +9,7 @@
 [Hotel Reservation System](https://svg.template.creately.com/hkxgmux72)
 
 ## Frameworks Used
+![WordPress](https://github.com/Miraii133/itelective3-web/blob/main/WordPress-logotype-wordmark-white.png "WordPress")
 Wordpress, AMP, jQuery, LazySizes, FancyBox, PHP, Cloudflare, CDNJS
 
 ## Purpose of System
