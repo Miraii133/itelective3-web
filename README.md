@@ -6,7 +6,7 @@
 * [Possible Sub-Systems](#possible-sub-systems)
 
 ## Type of System Used
-Hotel Reservation System
+[Hotel Reservation System](https://svg.template.creately.com/hkxgmux72)
 
 ## Frameworks Used
 Wordpress, AMP, jQuery, LazySizes, FancyBox, PHP, Cloudflare, CDNJS
