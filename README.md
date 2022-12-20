@@ -11,7 +11,7 @@
 [Hotel Reservation System](https://svg.template.creately.com/hkxgmux72)
 
 ## Frameworks Used
-<img src="[https://github.com/favicon.ico](https://github.com/Miraii133/itelective3-web/blob/main/word_press_logo.png)" width="48">
+<img src="[https://github.com/favicon.ico](https://github.com/Miraii133/itelective3-web/blob/main/word_press_logo.png)" width="50px">
 Wordpress, AMP, jQuery, LazySizes, FancyBox, PHP, Cloudflare, CDNJS
 
 ## Purpose of System
