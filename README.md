@@ -15,12 +15,12 @@
 <p float="left">
  
 
-<img src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" width="15%" height="15%">
-<img src="https://amp.dev/static/img/icons/icon-512x512.png" width="15%" height="15%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/2560px-JQuery-Logo.svg.png" width="15%" height="15%">
-<img src="https://ps.w.org/fancybox-for-wordpress/assets/icon-256x256.jpg?rev=1864321" width="15%" height="15%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/CDNJS_Logo_-_Web%2C_Dark_Variant.png" width="15%" height="15%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="15%" height="15%">
+<a href="https://www.wordpress.com"> <img src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" width="15%" height="15%"></a>
+<a href="https://amp.dev/"> <img src="https://amp.dev/static/img/icons/icon-512x512.png" width="15%" height="15%"> </a>
+<a href="https://jquery.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/2560px-JQuery-Logo.svg.png" width="15%" height="15%"> </a>
+<a href="https://cdnjs.com/libraries/fancybox"> <img src="https://ps.w.org/fancybox-for-wordpress/assets/icon-256x256.jpg?rev=1864321" width="15%" height="15%"> </a>
+<a href="https://www.cloudflare.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/CDNJS_Logo_-_Web%2C_Dark_Variant.png" width="15%" height="15%"> </a>
+<a href="https://www.php.net/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="15%" height="15%"> </a>
 </p>
 
 
