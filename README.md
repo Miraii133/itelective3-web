@@ -1,4 +1,6 @@
+![Verdon Parc Logo](https://github.com/Miraii133/itelective3-web/blob/main/verdon_parc_logo.png "Verdon Parc")
 # Verdon Parc by DMCI Homes
+
 ## Table of Contents
 * [Type of System Used](#type-of-system-used)
 * [Frameworks Used](#frameworks-used)
