@@ -22,7 +22,13 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/CDNJS_Logo_-_Web%2C_Dark_Variant.png" width="15%" height="15%">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="15%" height="15%">
 </p>
-Wordpress, AMP, jQuery, FancyBox, PHP, Cloudflare, CDNJS
+[WordPress](https://www.wordpress.com)
+[AMP](https://amp.dev/)
+[jQuery]((https://jquery.com)
+[FancyBox](https://cdnjs.com/libraries/fancybox)
+[CloudFlare](https://www.cloudflare.com)
+[CDNJS](https://cdnjs.com/)
+[PHP](https://www.php.net/)
 
 ## Purpose of System
 The Verdon Parc website allows the users to view the Verdon Parc Condominium, its location, map, prices and costs, and all information regarding the condominium. It contains the price range of the condominium, the type of units available, as well as additional occupany and promos information. The website also contains the infrastructural information of the condominium such as its Land Area, Development Type, and Architectural theme. But most importantly, it contains the general facilities, the different buildings, building features, unit features, as well as general information expected from a high-end condominium
