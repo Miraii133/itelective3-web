@@ -1,6 +1,6 @@
 <a href="https://www.dmcihomes.com/verdon-parc"> <img src="https://github.com/Miraii133/itelective3-web/blob/main/verdon_parc_logo.png"></a>
 # [Verdon Parc by DMCI Homes](https://www.dmcihomes.com/verdon-parc)
-<a href="https://www.dmcihomes.com/verdon-parc"> <img src="https://github.com/Miraii133/itelective3-web/blob/main/verdon_parc_site.png" width="75%" height="75%"></a>
+<a href="https://www.dmcihomes.com/verdon-parc"> <img src="https://github.com/Miraii133/itelective3-web/blob/main/verdon_parc_site.png" width="100%" height="100%"></a>
 
 ## Table of Contents
 * [Type of System Used](#type-of-system-used)
