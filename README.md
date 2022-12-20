@@ -1,9 +1,9 @@
 # Verdon Parc by DMCI Homes
 ## Table of Contents
-* [Type of System Used](#system-used)
+* [Type of System Used](#type-of-system-used)
 * [Frameworks Used](#frameworks-used)
 * [Purpose of System](#purpose-of-system)
-* [Possible Sub-Systems](#possible-subystems)
+* [Possible Sub-Systems](#possible-sub-systems)
 
 ## Type of System Used
 Hotel Reservation System
