@@ -1,6 +1,6 @@
 ![Verdon Parc Logo](https://github.com/Miraii133/itelective3-web/blob/main/verdon_parc_logo.png "Verdon Parc")
 # Verdon Parc by DMCI Homes
-<img src="https://github.com/Miraii133/itelective3-web/blob/main/verdon_parc_site.png" width="50%" height="50%">
+<img src="https://github.com/Miraii133/itelective3-web/blob/main/verdon_parc_site.png" width="75%" height="75%">
 
 ## Table of Contents
 * [Type of System Used](#type-of-system-used)
