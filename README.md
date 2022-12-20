@@ -32,21 +32,20 @@ The Verdon Parc website allows the users to view the Verdon Parc Condominium, it
 The website has multiple pages that a user can explore, with different purposes and functionalities. Meanwhile, it also contains links and embeds that redirects the # user to different websites that are still under DMCI Homes. It also allows the users to contact DMCI Homes for inquiries through a chat form or an inquiry form that will be sent to DMCI in the form of an email.
 
 ## Possible Sub-Systems
-User
-View Media of Verdon Parc
-View Map of Condominium
-View General Information of Condominium
-Chat with a bot or a Sales Representative
-Submit an Inquiry form 
+### User
+* View Media of Verdon Parc
+* View Map of Condominium
+* View General Information of Condominium
+* Chat with a bot or a Sales Representative
+* Submit an Inquiry form 
 
-Admin
-View User Submitted Inquiry Forms
-View Chat Inquiries
-View User Bookings and Appointments
-Update Price Range Changes
-Update Photos to Media
-Update Units Availability Column in Units
-Update Site Progress RoadMap
-Update Properties near the Condominium Location
-Update Contact Information
-
+### Admin
+* View User Submitted Inquiry Forms
+* View Chat Inquiries
+* View User Bookings and Appointments
+* Update Price Range Changes
+* Update Photos to Media
+* Update Units Availability Column in Units
+* Update Site Progress RoadMap
+* Update Properties near the Condominium Location
+* Update Contact Information
