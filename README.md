@@ -1,4 +1,4 @@
-<a href="https://www.dmcihomes.com/verdon-parc"> <img src="https://github.com/Miraii133/itelective3-web/blob/main/verdon_parc_logo.png" width="50%" height="50%"></a>
+<a href="https://www.dmcihomes.com/verdon-parc"> <img src="https://github.com/Miraii133/itelective3-web/blob/main/verdon_parc_logo.png" width="25%" height="25%"></a>
 # Verdon Parc by DMCI Homes
 <a href="https://www.dmcihomes.com/verdon-parc"> <img src="https://github.com/Miraii133/itelective3-web/blob/main/verdon_parc_site.png" width="75%" height="75%"></a>
 
